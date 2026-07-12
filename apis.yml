@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://apigratis.com.br/
 common:
+  - type: DomainSecurity
+    url: security/api-gr-tis-domain-security.yml
   - type: Website
     url: https://apigratis.com.br/
   - type: PublicAPIsListing
