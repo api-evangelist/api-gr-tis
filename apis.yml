@@ -39,7 +39,6 @@ apis:
   - name: API Grátis
     description: "Multiples services and public APIs"
     humanURL: https://apigratis.com.br/
-    baseURL: https://apigratis.com.br/
     tags:
       - Development
     properties:
